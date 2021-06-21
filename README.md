@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedEhab
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Angular
+- 🌱 I’m in love with Angular
 - 📫 How to reach me? send me a mail at eng.ahmedweka@gmail.com
 
 <!---
